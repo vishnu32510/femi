@@ -1,9 +1,9 @@
-import 'package:femi/chat_screen.dart';
-import 'package:femi/home_screen.dart';
-import 'package:femi/provider.dart';
-import 'package:femi/save_screen.dart';
-import 'package:femi/search_screen.dart';
-import 'package:femi/settings_screen.dart';
+import 'package:femi/screens/chat_screen.dart';
+import 'package:femi/screens/home_screen.dart';
+import 'package:femi/providers/provider.dart';
+import 'package:femi/screens/save_screen.dart';
+import 'package:femi/screens/search_screen.dart';
+import 'package:femi/screens/settings_screen.dart';
 import 'package:femi/widgets/custom_bottom_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
